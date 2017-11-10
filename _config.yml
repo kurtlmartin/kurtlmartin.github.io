@@ -9,13 +9,13 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "Dev journey"
 title_separator          : "-"
 name                     : "Kurt Martin"
-description              : "A developer's journey"
+description              : "This site is here for me to lean and try out different things. From documenting my successes to learning form my failures.  "
 url                      : "https://kurtlmartin.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "master"# GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "master" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -86,7 +86,7 @@ author:
   name             : "Kurt Martin"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : " Long time developer, new time bloger. "
-  location         : "Somewhere"
+  location         : "NC"
   email            :
   uri              :
   bitbucket        :
@@ -95,7 +95,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "kurtlmartin"
   gitlab           :
   google_plus      :
   keybase          :
@@ -107,7 +107,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          :
+  twitter          : "Kurtlmartin"
   vine             :
   weibo            :
   xing             :

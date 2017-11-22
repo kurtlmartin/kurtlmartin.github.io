@@ -6,8 +6,6 @@ tags:
   - microservices
 ---
 
-# Microservices Notes
-
 Over the pass few weeks I have been putting together some notes. This will be a updated post as I learn and gather more notes.
 
 ## Notes

@@ -10,10 +10,10 @@ Over the pass few weeks I have been putting together some notes. This will be a 
 
 ## Notes
 
----Gateway servers
----Semantic Versioning
----Circuit Breaker
----Correlation Id
----Logging
----Separate DB
----Event Sourcing
+* Gateway servers
+* Semantic Versioning
+* Circuit Breaker
+* Correlation Id
+* Logging
+* Separate DB
+* Event Sourcing

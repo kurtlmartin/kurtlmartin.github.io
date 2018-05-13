@@ -3,7 +3,7 @@ title: "Path Forward"
 categories:
   - 2018
 tags:
-  - 
+  - TODO
 ---
 
 # I am 30 now, what is next

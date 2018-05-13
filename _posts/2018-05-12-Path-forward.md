@@ -17,5 +17,5 @@ Each quarter I will read and review a tech book.
 Each year I will review my years progress by grading myself and create new goals for the next year.
 
 ## 2018 Goals
--Complete the above list. 
--Start work on ML
+* Complete the above list. 
+* Start work on ML
